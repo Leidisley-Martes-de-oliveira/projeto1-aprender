@@ -5,3 +5,4 @@ Olá meu nome é Leidisley Martes e eu mudei de branch.
 =======
 >>>>>>> 5f1aef638b152dcc3ae9052cc52fafc3e2252e2f
 
+Modifiquei para a branch stogin e agora vou mesclar os arquivos com a master.
